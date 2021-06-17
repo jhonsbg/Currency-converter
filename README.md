@@ -1,2 +1,2 @@
 # Currency-converter
-Colombian pesos to US dollars converter
+Colombian, Argentine and Mexican pesos to US dollars converter
